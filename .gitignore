@@ -1,2 +1,6 @@
 *~
 test
+*.o
+*.gch
+*flymake*
+
