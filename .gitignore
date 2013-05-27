@@ -3,4 +3,6 @@ test
 *.o
 *.gch
 *flymake*
-
+*.out
+#*
+.#*
