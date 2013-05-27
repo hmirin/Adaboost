@@ -53,7 +53,7 @@ int Adaboost::weaklearn(){
       minpos = i;
       minerr = currentclassifiererr;
     }
-  }
+  }nano 
   classifiers.push_back(minpos);
   return minpos; //return the index of the classifier which gives minimum errorx
 }
